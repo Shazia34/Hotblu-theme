@@ -2,8 +2,8 @@
   "manifest": {
     "author": "Syc! シ#6969",
     "version": "1.0.0",
-    "name": "HotBlu",
-    "updater": "https://raw.githubusercontent.com/Shazia34/Hotblu-theme/main/hotblu.json",
+    "name": "Nightout",
+    "updater": "https://raw.githubusercontent.com/Shazia34/Nightout-theme/main/updates.json",
     "transparency_mode": 0
   },
   "background": {
@@ -30,7 +30,8 @@
     "primary_dark_300": -15498114,
     "primary_dark_800": -16382685,
     "design_dark_default_color_surface": -7665399,
-    "foreground_material_dark": -10843649
+    "foreground_material_dark": -10843649,
+    "white_500": -16448489
   },
   "drawable_tints": {
     "drawable_overlay_mentions": -16777216,
