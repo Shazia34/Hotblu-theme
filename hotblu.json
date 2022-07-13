@@ -1,0 +1,41 @@
+{
+  "manifest": {
+    "author": "Syc! シ#6969",
+    "version": "1.0.0",
+    "name": "HotBlu",
+    "updater": "https://raw.githubusercontent.com/Shazia34/Nightout-theme/main/updates.json",
+    "transparency_mode": 0
+  },
+  "background": {
+    "url": "https://cdn.discordapp.com/attachments/953008851710513192/996564789448949760/unknown.png",
+    "blur_radius": 0,
+    "overlay_alpha": 0
+  },
+  "fonts": {
+    "*": "https://cdn.discordapp.com/attachments/953008851710513192/996547133916315808/Cabin-VariableFont_wdthwght.ttf"
+  },
+  "simple_colors": {
+    "accent": -16511711,
+    "mention_highlight": -16316602,
+    "background": -15067622,
+    "background_secondary": -16048340,
+    "statusbar": -16573664
+  },
+  "colors": {
+    "abc_btn_colored_text_material": -15118208,
+    "chat_input_button_tint_colors_dark": -15118208,
+    "black": -15225722,
+    "dim_foreground_material_dark": -16446431,
+    "primary_700": -16579830,
+    "primary_dark_300": -15498114,
+    "primary_dark_800": -16382685,
+    "design_dark_default_color_surface": -7665399,
+    "foreground_material_dark": -10843649
+  },
+  "drawable_tints": {
+    "drawable_overlay_mentions": -16777216,
+    "asset_empty_mentions_arm_dark": -16574673,
+    "drawable_bg_reaction_dark": -16515060
+  },
+  "raws": {}
+}
